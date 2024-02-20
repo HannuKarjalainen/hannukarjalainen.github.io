@@ -18,10 +18,10 @@ Tästä saa mailia pistettyä [email](mailto:t8kaha01@students.oamk.fi).
 
 ## Vähän flavooria sivulle
 
-- [x] listan ensimmäinen vaihtoehto, oletuksena valittu
-- [x] listan toinen vaihtoehto, oletuksena valittu
-- [ ] listan kolmas vaihtoehto, oletuksena ei valittu
-- [ ] ja vielä yksi joka oletuksena ei valittu, testaile menemään
+[x] listan ensimmäinen vaihtoehto, oletuksena valittu
+[x] listan toinen vaihtoehto, oletuksena valittu
+[ ] listan kolmas vaihtoehto, oletuksena ei valittu
+[ ] ja vielä yksi joka oletuksena ei valittu, testaile menemään
 
 ## Taulukon luonti myös aika simppeliä
 
@@ -31,10 +31,15 @@ Tästä saa mailia pistettyä [email](mailto:t8kaha01@students.oamk.fi).
 | Miltä näyttää |  2  | Saapa nähdä |
 | riittääkö     | joo | eiköhän     |
 
-## Pyyttoniakin näemmä voi neppailla suoraan
+## Koodiblokkeja pre tagien väliin
 
+<pre>
+```
 ```python
 def greet(name):
     print(f"Hello, {name}!")
 
 greet("vertaisarvioijani")
+```
+```
+</pre>
