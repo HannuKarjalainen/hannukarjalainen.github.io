@@ -63928,7 +63928,7 @@ $S:81}
 A.uW.prototype={}
 A.Bh.prototype={
 M(a){var s=null,r=A.c0(a,s,t.w).w,q=t.F
-return A.hv(s,A.nV(A.b([A.po("Get in touch",A.n3(s,s,B.bo,s,s,s,s,s,s,s,s,24,s,s,B.bq,s,s,!0,s,s,s,s,s,s,s,s)),B.hT,A.a4f(B.vx,A.b([A.m3(!1,!0,A.jZ("github.png",s),s,!0,s,s,s,s,s,s,s,s,s,new A.Rh(),s,s,s,s),A.m3(!1,!0,A.jZ("instagram.png",s),s,!0,s,s,s,s,s,s,s,s,s,new A.Ri(),s,s,s,s),A.m3(!1,!0,A.jZ("linkedin.png",s),s,!0,s,s,s,s,s,s,s,s,s,new A.Rj(),s,s,s,s)],q),12,12)],q),B.ak,B.ap,B.aw),B.x,B.dM,s,s,s,s,s,new A.aV(25,20,25,60),r.a.a)}}
+return A.hv(s,A.nV(A.b([A.po("Get in touch",A.n3(s,s,B.bo,s,s,s,s,s,s,s,s,24,s,s,B.bq,s,s,!0,s,s,s,s,s,s,s,s)),B.hT,A.a4f(B.vx,A.b([A.m3(!1,!0,A.jZ("assets/github.png",s),s,!0,s,s,s,s,s,s,s,s,s,new A.Rh(),s,s,s,s),A.m3(!1,!0,A.jZ("assets/instagram.png",s),s,!0,s,s,s,s,s,s,s,s,s,new A.Ri(),s,s,s,s),A.m3(!1,!0,A.jZ("assets/linkedin.png",s),s,!0,s,s,s,s,s,s,s,s,s,new A.Rj(),s,s,s,s)],q),12,12)],q),B.ak,B.ap,B.aw),B.x,B.dM,s,s,s,s,s,new A.aV(25,20,25,60),r.a.a)}}
 A.Rh.prototype={
 $0(){$.qL().iW("open",["https://github.com/HannuKarjalainen"])},
 $S:0}
