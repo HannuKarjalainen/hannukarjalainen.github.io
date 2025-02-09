@@ -58485,7 +58485,7 @@ r=A.b([],s)
 q=c.y
 q.toString
 p=J.bk(q,null)
-if(p==null)p=B.ee
+if(p==null)p=B.ed
 o=A.v(t.ob,t.UX)
 q=c.y
 q.toString
@@ -58505,8 +58505,8 @@ if(j){r=A.b([],s)
 i=c.y
 i.toString
 p=J.bk(i,h.gcO())
-if(p==null)p=B.ee}else{r=B.ee
-p=B.ee}l=h
+if(p==null)p=B.ed}else{r=B.ed
+p=B.ed}l=h
 continue}if(j){i=h.b
 i=i==null?b:i.gLb()
 j=i===!0}else j=!1
@@ -66026,16 +66026,16 @@ return A.oD(s,B.Mr,B.at,!1,s,s,s,s,s,s,s,s,s,s,s,s,this.c,s,s,s,s)}}
 A.GO.prototype={
 N(a){var s,r,q=null,p=t.F,o=A.b([],p)
 for(s=0;s<4;++s){r=new A.aV(5,5)
-o.push(A.fj(q,A.aes(B.jZ,A.fo(B.ef[s].i(0,"img"),26),q,A.jf(B.ef[s].i(0,"title"),q),q),B.x,q,q,new A.dD(B.cI,q,q,new A.ce(r,r,r,r),q,q,B.aN),q,q,q,q,200))}o=A.x6(B.b8,o,5,5)
+o.push(A.fj(q,A.aes(B.jZ,A.fo(B.ee[s].i(0,"img"),26),q,A.jf(B.ee[s].i(0,"title"),q),q),B.x,q,q,new A.dD(B.cI,q,q,new A.ce(r,r,r,r),q,q,B.aN),q,q,q,q,200))}o=A.x6(B.b8,o,5,5)
 r=A.b([],p)
-for(s=0;s<15;++s)r.push(A.ahg(A.fo(B.ed[s].i(0,"img"),q),B.cI,A.jf(B.ed[s].i(0,"title"),q),B.jY))
+for(s=0;s<15;++s)r.push(A.ahg(A.fo(B.ef[s].i(0,"img"),q),B.cI,A.jf(B.ef[s].i(0,"title"),q),B.jY))
 return A.G1(A.b([new A.dU(B.wx,o,q),B.Ii,new A.tJ(1,B.zD,new A.dU(B.iR,A.x6(B.b8,r,10,10),q),q)],p),B.aV,B.hl,B.aA)}}
 A.GP.prototype={
 N(a){var s,r,q=null,p=t.F,o=A.b([],p)
 for(s=0;s<4;++s){r=new A.aV(5,5)
-o.push(A.fj(q,A.aes(new A.aQ(16,10,16,10),A.fo(B.ef[s].i(0,"img"),26),q,A.jf(B.ef[s].i(0,"title"),q),q),B.x,q,q,new A.dD(B.cI,q,q,new A.ce(r,r,r,r),q,q,B.aN),q,q,B.zk,q,17976931348623157e292))}o.push(B.eS)
+o.push(A.fj(q,A.aes(new A.aQ(16,10,16,10),A.fo(B.ee[s].i(0,"img"),26),q,A.jf(B.ee[s].i(0,"title"),q),q),B.x,q,q,new A.dD(B.cI,q,q,new A.ce(r,r,r,r),q,q,B.aN),q,q,B.zk,q,17976931348623157e292))}o.push(B.eS)
 p=A.b([],p)
-for(s=0;s<15;++s)p.push(A.ahg(A.fo(B.ed[s].i(0,"img"),q),B.cI,A.jf(B.ed[s].i(0,"title"),q),B.jY))
+for(s=0;s<15;++s)p.push(A.ahg(A.fo(B.ef[s].i(0,"img"),q),B.cI,A.jf(B.ef[s].i(0,"title"),q),B.jY))
 o.push(A.x6(B.it,p,10,10))
 return new A.dU(B.iR,A.lJ(o,B.al,B.ao,B.aA),q)}}
 A.a_O.prototype={
@@ -69603,23 +69603,6 @@ B.BC=A.b(s([B.dy,B.ba,B.ct,B.dz]),A.af("w<hl>"))
 B.Cn=new A.kl("en","US")
 B.kr=A.b(s([B.Cn]),t.ss)
 B.ks=A.b(s([0,0,65490,12287,65535,34815,65534,18431]),t.t)
-B.W={img:0,title:1}
-B.Eg=new A.aU(B.W,["assets/css3.png","CSS"],t.B)
-B.Eb=new A.aU(B.W,["assets/html5.png","HTML"],t.B)
-B.Ek=new A.aU(B.W,["assets/javas.png","Java"],t.B)
-B.Eh=new A.aU(B.W,["assets/javascript.png","Javascript"],t.B)
-B.En=new A.aU(B.W,["assets/python.png","Python"],t.B)
-B.E9=new A.aU(B.W,["assets/c.png","C"],t.B)
-B.El=new A.aU(B.W,["assets/cpp.png","C++"],t.B)
-B.E5=new A.aU(B.W,["assets/kotlin.png","Kotlin"],t.B)
-B.E6=new A.aU(B.W,["assets/dart.png","Dart"],t.B)
-B.Ei=new A.aU(B.W,["assets/flutter.png","Flutter"],t.B)
-B.Ee=new A.aU(B.W,["assets/reactnative.png","React Native"],t.B)
-B.Ef=new A.aU(B.W,["assets/expo.png","Expo"],t.B)
-B.Ea=new A.aU(B.W,["assets/nodejs.png","Node.js"],t.B)
-B.E8=new A.aU(B.W,["assets/sql.png","SQL"],t.B)
-B.Ed=new A.aU(B.W,["assets/postgre.png","Postgre SQL.js"],t.B)
-B.ed=A.b(s([B.Eg,B.Eb,B.Ek,B.Eh,B.En,B.E9,B.El,B.E5,B.E6,B.Ei,B.Ee,B.Ef,B.Ea,B.E8,B.Ed]),t.n4)
 B.Ix=new A.wx(0,"left")
 B.Iy=new A.wx(1,"right")
 B.BK=A.b(s([B.Ix,B.Iy]),A.af("w<wx>"))
@@ -69644,7 +69627,7 @@ B.kw=A.b(s([]),A.af("w<aAB>"))
 B.C7=A.b(s([]),t.E)
 B.C8=A.b(s([]),t.ER)
 B.C9=A.b(s([]),t.tc)
-B.ee=A.b(s([]),t.jl)
+B.ed=A.b(s([]),t.jl)
 B.C0=A.b(s([]),t.fy)
 B.C_=A.b(s([]),A.af("w<ajd<@>>"))
 B.h3=A.b(s([]),t.AO)
@@ -69676,15 +69659,32 @@ B.ht=new A.eZ(6,"scrollLockModifier")
 B.hu=new A.eZ(7,"functionModifier")
 B.pD=new A.eZ(8,"symbolModifier")
 B.ky=A.b(s([B.c7,B.c8,B.c9,B.ca,B.hr,B.hs,B.ht,B.hu,B.pD]),A.af("w<eZ>"))
-B.Ej=new A.aU(B.W,["assets/android_icon.png","Android Dev"],t.B)
+B.W={img:0,title:1}
+B.Ek=new A.aU(B.W,["assets/android_icon.png","Android Dev"],t.B)
 B.Em=new A.aU(B.W,["assets/web_icon.png","Web Dev"],t.B)
 B.E7=new A.aU(B.W,["assets/ios_icon.png","IOS Dev"],t.B)
-B.Ec=new A.aU(B.W,["assets/desktop_icon.png","Desktop Dev"],t.B)
-B.ef=A.b(s([B.Ej,B.Em,B.E7,B.Ec]),t.n4)
+B.Ed=new A.aU(B.W,["assets/desktop_icon.png","Desktop Dev"],t.B)
+B.ee=A.b(s([B.Ek,B.Em,B.E7,B.Ed]),t.n4)
 B.xO=new A.o4(0,"auto")
 B.xP=new A.o4(1,"full")
 B.xQ=new A.o4(2,"chromium")
 B.Cc=A.b(s([B.xO,B.xP,B.xQ]),A.af("w<o4>"))
+B.Eh=new A.aU(B.W,["assets/css3.png","CSS"],t.B)
+B.Eb=new A.aU(B.W,["assets/html5.png","HTML"],t.B)
+B.Ec=new A.aU(B.W,["assets/java.png","Java"],t.B)
+B.Ei=new A.aU(B.W,["assets/javascript.png","Javascript"],t.B)
+B.En=new A.aU(B.W,["assets/python.png","Python"],t.B)
+B.E9=new A.aU(B.W,["assets/c.png","C"],t.B)
+B.El=new A.aU(B.W,["assets/cpp.png","C++"],t.B)
+B.E5=new A.aU(B.W,["assets/kotlin.png","Kotlin"],t.B)
+B.E6=new A.aU(B.W,["assets/dart.png","Dart"],t.B)
+B.Ej=new A.aU(B.W,["assets/flutter.png","Flutter"],t.B)
+B.Ef=new A.aU(B.W,["assets/reactnative.png","React Native"],t.B)
+B.Eg=new A.aU(B.W,["assets/expo.png","Expo"],t.B)
+B.Ea=new A.aU(B.W,["assets/nodejs.png","Node.js"],t.B)
+B.E8=new A.aU(B.W,["assets/sql.png","SQL"],t.B)
+B.Ee=new A.aU(B.W,["assets/postgre.png","Postgre SQL.js"],t.B)
+B.ef=A.b(s([B.Eh,B.Eb,B.Ec,B.Ei,B.En,B.E9,B.El,B.E5,B.E6,B.Ej,B.Ef,B.Eg,B.Ea,B.E8,B.Ee]),t.n4)
 B.BM=A.b(s([137,80,78,71,13,10,26,10]),t.Z)
 B.A7=new A.k9(0,"png")
 B.Aj=new A.hJ(B.A7,!1,0,"png")
