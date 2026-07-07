@@ -1,11 +1,11 @@
 {
-    "name": "Gulfa Portfolio",
-    "short_name": "portfolio",
+    "name": "kissa_agility_pisteet",
+    "short_name": "kissa_agility_pisteet",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Portfolio made with flutter.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
