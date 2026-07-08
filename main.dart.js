@@ -64859,37 +64859,37 @@ r.d.b.X(0,new A.a5u(r))},
 a_2(){var s=B.b.KG($.r1(),new A.a5c(this))
 if(s===-1)return
 this.ac(new A.a5d(this,s))},
-S(a){var s,r,q,p,o,n=this,m=null,l=A.cF(a,m,t.w).w.a,k=l.a,j=n.x
-j===$&&A.a()
-j=A.pD(A.Cs(n.d,j),350,k)
+S(a){var s,r,q,p,o,n=this,m=null,l=A.cF(a,m,t.w).w.a.a,k=n.x
+k===$&&A.a()
+k=A.pD(A.Cs(n.d,k),350,l)
 s=n.e
 r=A.dA(m,B.jY,s?new A.a5i(n):m,m,m)
 q=A.dA(m,B.jZ,s?new A.a5j(n):m,m,m)
 p=A.dA(m,B.k_,s?new A.a5k(n):m,m,m)
 o=t.E
-p=A.b([j,B.hN,A.f8(A.b([r,q,p,A.dA(m,B.jX,s?new A.a5l(n):m,m,m)],o),B.a5,B.cV,B.R),B.ez],o)
-j=n.w
-j===$&&A.a()
-if(j.ax!=null)p.push(A.f8(A.b([B.vs,A.ajC(new A.a5m(n),n.r),B.vt],o),B.a5,B.U,B.R))
+p=A.b([k,B.hN,A.f8(A.b([r,q,p,A.dA(m,B.jX,s?new A.a5l(n):m,m,m)],o),B.a5,B.cV,B.R),B.ez],o)
+k=n.w
+k===$&&A.a()
+if(k.ax!=null)p.push(A.f8(A.b([B.vs,A.ajC(new A.a5m(n),n.r),B.vt],o),B.a5,B.U,B.R))
 p.push(A.i8(n.w.b,B.vq))
 p.push(new A.f4(B.dK,A.i8("Esteen suoritus",B.M6),m))
-j=A.b([],o)
-j.push(A.dA(B.ch,B.cB,new A.a5n(n),B.cz,B.cb))
-if(n.w.w!=null)j.push(A.dA(B.ch,B.cB,new A.a5o(n),B.cz,B.cb))
-j.push(A.SK(new A.f4(B.dK,A.i8(n.w.c,B.eB),m),1))
-p.push(A.f8(j,B.a4,B.U,B.R))
-j=A.b([],o)
-j.push(A.dA(B.ch,B.cB,new A.a5p(n),B.cz,B.cb))
+k=A.b([],o)
+k.push(A.dA(B.ch,B.cB,new A.a5n(n),B.cz,B.cb))
+if(n.w.w!=null)k.push(A.dA(B.ch,B.cB,new A.a5o(n),B.cz,B.cb))
+k.push(A.SK(new A.f4(B.dK,A.i8(n.w.c,B.eB),m),1))
+p.push(A.f8(k,B.a4,B.U,B.R))
+k=A.b([],o)
+k.push(A.dA(B.ch,B.cB,new A.a5p(n),B.cz,B.cb))
 s=n.w
-j.push(A.SK(new A.f4(B.dK,A.i8(s.d,B.eB),m),1))
-p.push(A.f8(j,B.a4,B.U,B.R))
-j=A.b([],o)
-j.push(A.dA(B.ch,B.cB,new A.a5q(n),B.cz,B.cb))
-if(n.w.Q!=null)j.push(A.dA(B.ch,B.cB,new A.a5r(n),B.cz,B.cb))
-j.push(A.SK(new A.f4(B.dK,A.i8(n.w.e,B.eB),m),1))
-j.push(B.II)
-p.push(A.f8(j,B.a4,B.U,B.R))
-return A.fW(A.lO(p,B.a4,B.U,B.R),B.z,m,new A.ax(0,1/0,560,1/0),m,l.b,m,new A.bg(40,30,40,30),m,k)}}
+k.push(A.SK(new A.f4(B.dK,A.i8(s.d,B.eB),m),1))
+p.push(A.f8(k,B.a4,B.U,B.R))
+k=A.b([],o)
+k.push(A.dA(B.ch,B.cB,new A.a5q(n),B.cz,B.cb))
+if(n.w.Q!=null)k.push(A.dA(B.ch,B.cB,new A.a5r(n),B.cz,B.cb))
+k.push(A.SK(new A.f4(B.dK,A.i8(n.w.e,B.eB),m),1))
+k.push(B.II)
+p.push(A.f8(k,B.a4,B.U,B.R))
+return A.fW(A.lO(p,B.a4,B.U,B.R),B.z,m,new A.ax(0,1/0,560,1/0),m,m,m,new A.bg(40,30,40,30),m,l)}}
 A.a5b.prototype={
 $0(){this.a.x=this.b},
 $S:0}
@@ -65009,8 +65009,8 @@ A.DC.prototype={
 S(a){var s=null,r=A.cF(a,s,t.w).w.a,q=t.E
 return A.fW(A.f8(A.b([A.lO(A.b([B.MN,B.v9],q),B.a5,B.cV,B.R),A.ahT("assets/logo_agilitykissat_white-1.png",r.a/2)],q),B.a5,B.h3,B.R),B.z,s,new A.ax(0,1/0,350,1/0),s,r.b/1.2,s,B.jK,s,s)}}
 A.DD.prototype={
-S(a){var s=null,r=A.cF(a,s,t.w).w.a
-return A.fW(A.lO(A.b([new A.G_(new A.We(),B.wj,A.ahT("assets/logo_agilitykissat_white-1.png",r.a),s),B.ez,B.MM,B.v9],t.E),B.a4,B.U,B.R),B.z,s,new A.ax(0,1/0,560,1/0),s,r.b,s,new A.bg(40,30,40,30),s,s)}}
+S(a){var s=null
+return A.fW(A.lO(A.b([new A.G_(new A.We(),B.wj,A.ahT("assets/logo_agilitykissat_white-1.png",A.cF(a,s,t.w).w.a.a),s),B.ez,B.MM,B.v9],t.E),B.a4,B.U,B.R),B.z,s,new A.ax(0,1/0,560,1/0),s,s,s,new A.bg(40,30,40,30),s,s)}}
 A.We.prototype={
 $1(a){var s=null,r=A.b([A.aq(153,B.bj.gl(0)>>>16&255,B.bj.gl(0)>>>8&255,B.bj.gl(0)&255),A.aq(153,B.bj.gl(0)>>>16&255,B.bj.gl(0)>>>8&255,B.bj.gl(0)&255)],t.t_),q=B.eW.M(s).Mq(a),p=B.dj.M(s).Mq(a),o=new A.Dr(B.eW,B.dj,B.eC,r,s,s).WA()
 return A.adS(q,p,r,o,B.eC,s)},
