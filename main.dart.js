@@ -64746,7 +64746,7 @@ A.cw(a,m,l).toString
 l=A.ah([B.vD,new A.c6(new A.a4Z(),new A.a5_(),t.It)],t.u,t.xR)
 s=n.x
 s===$&&A.a()
-l=A.pH(A.oZ(B.aS,new A.i3(A.Cw(n.d,s),l,m,!1,m),m,m,m,new A.a50(),m),1000,1000)
+l=A.pH(A.oZ(B.aS,new A.i3(A.Cw(n.d,s),l,m,!1,m),m,m,m,new A.a50(),m),700,700)
 s=n.e
 r=A.dC(m,B.k0,s?new A.a53(n):m,m,m)
 q=A.dC(m,B.k1,s?new A.a54(n):m,m,m)
